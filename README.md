@@ -1,5 +1,5 @@
 # Branch Prediction Pin Tool
-This repository provides a Pin tool that can be used for performing branch
+This repository provides a Pin tool that can be used for performing branch prediction
 
 I started the implementation based on a completed branch prediction pintools from GitHub. The link is: https://github.com/kodbe/branch-predictor. I used the 2-bit counter predictor and perceptron branch predictor from it and implement gshare and hybrid branch predictor (gshare+2-bit counter and 2-bit counter + perceptron).
 
